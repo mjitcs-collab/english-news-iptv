@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="English News",Euronews English - primary
-https://cdn-euronews.akamaized.net/live/eds/euronews-en/25080/euronews-en.m3u8
-#EXTINF:-1 group-title="English News",Euronews English - alternative
-https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
